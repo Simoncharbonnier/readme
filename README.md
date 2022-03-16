@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python and other stuff.**
 
-- 👨‍💻 All of my projects are available at <a href="troopl.com/simoncharbonnier">my portfolio</a>.
+- 👨‍💻 All of my projects are available at <a href="https://www.troopl.com/simoncharbonnier">my portfolio</a>.
 
 - 📫 How to reach me **simoncharbonnier@orange.fr**
 
