@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my portfolio !**
 
-- 🌱 I’m currently learning **Python and other stuff.**
+- 🌱 I’m currently learning **Python, ReactJS and other stuff.**
 
 - 👨‍💻 All of my projects are available at <a href="https://www.troopl.com/simoncharbonnier">my portfolio</a>.
 
