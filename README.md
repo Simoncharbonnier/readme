@@ -26,6 +26,7 @@
 - CI/CD: Travis CI
 - API development tools: Postman
 - Content Management Systems: Wordpress
+- Dependency management: composer, npm, yarn, pip, bundler
 - Deployment: OVH, Heroku
 - Design: Figma, Adobe XD
 - Collaboration: Jira, Microsoft Teams, Slack.
