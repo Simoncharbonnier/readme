@@ -11,7 +11,7 @@
 
 - Programming languages: PHP, JavaScript, Ruby, Python
 - Frameworks: Symfony, CodeIgniter, Slim, Ruby on Rails, React
-- Web technologies: HTML, CSS3, Sass, Bootstrap 4/5
+- Web technologies: HTML5, CSS3, Sass, Bootstrap 4/5
 - Databases: SQL, MySQL, PostgreSQL, MariaDB, Redis
 - Libraries: jQuery
 - API: REST
